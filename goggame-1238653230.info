@@ -1,0 +1,33 @@
+{
+    "clientId": "49167073140170589",
+    "gameId": "1238653230",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Factorio",
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "*"
+            ],
+            "name": "Factorio",
+            "path": "bin//x64/factorio.exe",
+            "type": "FileTask",
+            "workingDir": "bin//x64"
+        },
+        {
+            "category": "document",
+            "languages": [
+                "en-US"
+            ],
+            "link": "http://www.gog.com/support/factorio",
+            "name": "Support",
+            "type": "URLTask"
+        }
+    ],
+    "rootGameId": "1238653230",
+    "version": 1
+}
